@@ -1,0 +1,4 @@
+Portal.Office.com
+agent.office.net
+www.office.com
+outlook.office365.com
